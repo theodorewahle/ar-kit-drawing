@@ -92,7 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Rayan Slim";
+				ORGANIZATIONNAME = "Teddy Wahle";
 				TargetAttributes = {
 					0BB849981F3862D500F6BDAE = {
 						CreatedOnToolsVersion = 9.0;
@@ -273,9 +273,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6CP93ZVP7H;
 				INFOPLIST_FILE = "AR Drawing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawing";
+				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawingg";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -286,9 +287,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6CP93ZVP7H;
 				INFOPLIST_FILE = "AR Drawing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawing";
+				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawingg";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,6 +316,7 @@
 				0BB849AD1F3862D500F6BDAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
